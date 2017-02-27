@@ -1,0 +1,8 @@
+v2_E01-Empleados
+
+- Añadidos en los beans métodos para la creación de Empleados, Gerentes y Directores.
+
+- Separados en dos partes los métodos para crear empleados para que dependiendo del tipo de empleado aparezca en la parte superior
+qué tipo de empleado estás creando (ej. Introducir datos Gerente)
+
+- Creada en test una array donde se almacenan todos los empleados (gerente y director incluídos)
